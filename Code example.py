@@ -26,7 +26,7 @@ while Password == False:
 P1Total = 0
 P2Total = 0
 
-for Round in range (1,2):
+for Round in range (1,6):
     P1Score = 0
     P2Score = 0
     P1Dice1 = random.randint (1,6)
